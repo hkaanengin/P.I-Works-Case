@@ -16,7 +16,6 @@ In this endpoint, the user will be able to access the information about every us
     * New User Button
     * Hide Disabled User Checkbox
 2. New User Create
-    * Kesktra
 
 ## 1.Home Page
 
